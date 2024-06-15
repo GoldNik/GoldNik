@@ -9,14 +9,13 @@
 - 🌱 I deal with retro computers
 
 # **My stack of technologies** :
-ARM Cortex: 
-Atollic TrueStudio, CubIDE , Keil uVision(ARM), CubMX.
+### ARM Cortex:Atollic TrueStudio, CubIDE , Keil uVision(ARM), CubMX.
 
-MCS-x51: Keil uVision (x51) 
+### MCS-x51: Keil uVision (x51) 
 
-AVR : CodeVisionAVR , AVR Studio
+### AVR : CodeVisionAVR , AVR Studio
 
-Arduino  : arduinoIDE
+### Arduino  : arduinoIDE
 
 # My skills :
 <p align="left">
